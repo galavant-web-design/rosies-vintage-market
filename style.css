@@ -1,0 +1,32 @@
+html {
+    font-size: 16px;
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header, main, footer {
+    width: 40rem;
+    margin: 4rem auto;
+}
+
+.badge {
+    height: 5rem;
+    width: auto;
+}
+
+.banner {
+    height: 3rem;
+    width: auto;
+
+    margin-left: 1rem;
+}
+
+p {
+    margin-bottom: 2rem;
+    line-height: 1.4;
+}
